@@ -1,5 +1,6 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=itisusama-writer&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/itisusama-writer/writing-research)
 ---
 Hi, I'm Usama Hassan, a storyteller on a mission to unravel the darkest corners of the human psyche. Writing under the handle *itisusama-writer*, I dive deep into thrillers and mysteries, crafting tales that grip readers with suspense and leave them guessing until the very last page. My stories explore the delicate line between fear and fascination, pulling readers into worlds where shadows hold secrets, and every twist challenges what they think they know. If you're a fan of edge-of-your-seat mysteries, you've come to the right place. Let's journey into the unknown, one chapter at a time.
 
