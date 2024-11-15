@@ -19,3 +19,22 @@ Hi, I'm Usama Hassan, a storyteller on a mission to unravel the darkest corners 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+
+To accept donations via **Direct Bank Transfer** (Meezan Bank) or **JazzCash** in Pakistan, you can follow these steps to add the relevant information to your profile in a professional and user-friendly manner:
+
+---
+
+## ✨ Donation Accepted: Support My Work  
+If you enjoy my stories and would like to support my writing, donations are warmly accepted via the following methods:  
+
+💳 **Direct Bank Transfer**  
+- **Bank:** Meezan Bank  
+- **Account Name:** Usama Hassan  
+- **Account Number:** 00300109891719
+- **IBAN:** PK69MEZN0000300109891719  
+
+📱 **JazzCash**  
+- **Mobile Number:** 03074518566  
+- **Account Name:** Usama Hassan  
+
+Thank you for supporting independent storytelling!
